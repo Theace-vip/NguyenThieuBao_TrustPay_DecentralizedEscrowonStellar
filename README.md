@@ -31,4 +31,4 @@ Freelancers, independent contractors, and clients hiring remote talent.
 - Network: Stellar Testnet
 
 ## Team
-- [Nguyễn Thiếu Bảo] | [bao25122005@example.com] | Ho Chi Minh City University of Technology (HUTECH)
+- [Nguyễn Thiếu Bảo] | [bao25122005@gmail.com] | Ho Chi Minh City University of Technology (HUTECH)
